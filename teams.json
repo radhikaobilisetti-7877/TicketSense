@@ -1,0 +1,9 @@
+{
+  "Network": "Network Operations",
+  "Hardware": "Desktop Support",
+  "Software": "Application Support",
+  "Access & Accounts": "Identity & Access Management",
+  "Email": "Messaging Team",
+  "Security": "Security Operations (SOC)",
+  "Other": "Service Desk (L1)"
+}

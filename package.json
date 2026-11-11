@@ -1,0 +1,17 @@
+{
+  "name": "ticketsense",
+  "version": "1.0.0",
+  "description": "AI-powered helpdesk ticket classifier",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/classify.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
